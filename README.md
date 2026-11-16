@@ -26,8 +26,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Korotomx&theme=tokyonight" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Korotomx&theme=tokyonight" alt="Most used languages" />
+  <img width="49%" src="https://raw.githubusercontent.com/Korotomx/Korotomx/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="https://raw.githubusercontent.com/Korotomx/Korotomx/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top languages by commit" />
 </p>
 
 ## Notes
