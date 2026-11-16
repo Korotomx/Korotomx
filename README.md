@@ -21,7 +21,7 @@
 - **Focus.** Learning AI end to end — the mathematical foundations, the models, and running them on real hardware.
 - **Directions.** Mathematics, AI theory (MIT 6.S191), GPU deployment (PyTorch → ONNX → TensorRT), ROS 2 robotics, and the C++ / Python engineering behind them.
 - **Stack.** Python and C++, PyTorch, Ultralytics YOLO, CUDA / cuDNN, ROS 2, Linux under WSL2, Git.
-- **Repository.** Every step is recorded in [STD](https://github.com/Korotomx/STD), organized by subject.
+- **Repository.** Every step is recorded in a private notebook (STD), organized by subject.
 
 ## GitHub Stats
 
@@ -32,4 +32,4 @@
 
 ## Notes
 
-The [STD](https://github.com/Korotomx/STD) repository is organized by subject: `Math/` for linear algebra, probability and calculus; `Artificial_Intelligence/` for 6.S191, CUDA/TensorRT, the RoboMaster assessment and Python; `ROS2/` for communication, nodes and the course project; `English/` and `Writing/` for technical English and writing; and `Sight/` for long-form article notes.
+The STD notebook (private) is organized by subject: `Math/` for linear algebra, probability and calculus; `Artificial_Intelligence/` for 6.S191, CUDA/TensorRT, the RoboMaster assessment and Python; `ROS2/` for communication, nodes and the course project; `English/` and `Writing/` for technical English and writing; and `Sight/` for long-form article notes.
